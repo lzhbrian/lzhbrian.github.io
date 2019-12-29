@@ -6,7 +6,7 @@
 
 == Tzu-Heng Lin (林子恒 or 林子恆)
 
-Founding AI Team Lead, [https://styling.ai StylingAI Inc. (Shenshangtech 深尚科技)]\n
+Founding AI Team Lead, [https://styling.ai StylingAI Inc. (styling.ai, shenshangtech 深尚科技)]\n
 MSc, [http://aiic.pku.edu.cn/ AI Innovation Center], [http://english.pku.edu.cn/ Peking University]\n
 
 BEng, [http://www.ee.tsinghua.edu.cn/publish/eeen/index.html Electronic Engineering], [http://www.tsinghua.edu.cn/publish/newthuen/index.html Tsinghua University]\n
@@ -16,12 +16,12 @@ Email: lzhbrian \[AT\] gmail.com (preferred), lzhbrian \[AT\] pku.edu.cn, {{<s>l
 
 ~~~
 
-=== Short Bio
+== Short Bio
 I am currently the Founding AI Team Lead of [https://styling.ai StylingAI Inc.]
 I have extensive practical research and engineering experience in a broad field of artificial intelligence algorithms.
 I am extremely enthusiastic about AI and Startups.
 
-=== Research interests
+== Research interests
 - Recommender Systems: 
 [https://doi.org/10.1145/3269206.3269234, \[CIKM'18\]], 
 [https://doi.org/10.1145/3331184.3331191, \[SIGIR'19\]]
@@ -35,11 +35,12 @@ I am extremely enthusiastic about AI and Startups.
 - Computer Vision (with Deep Learning and GANs)\n{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
 
 
-=== News
+== News
 ~~~
 \[JOIN US!\] We are hiring highly motivated Computer Vision Algorithm Engineers. (Please send your resume/CV to linziheng \[AT\] shenshangtech.com)
 ~~~
 
+- \[2019-12-28\] New site launched! Thanks to Jemdoc! [https://lzhbrian.me/old2 old site]
 - \[2019-12-27\] [http://www.moe.gov.cn/srcsite/A20/s3117/s6583/201711/t20171115_319208.html Grand Prize Taiwanese Student Scholarship] (Highest Honor) by Minister of Education, P.R.C.
 - \[2019-12-27\] We have just close a [https://36kr.com/p/5276835?ktm_source=feed $6m Angel Round].
 - \[2019-10-20\] [https://www.kaggle.com/c/kaggledays-china/leaderboard 3rd place on Kaggle Days China]! Great thanks to my teammates [https://www.kaggle.com/mikelkl @Mike] and [https://www.kaggle.com/loveisp @loveisp].
