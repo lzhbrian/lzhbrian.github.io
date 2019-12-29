@@ -1,41 +1,58 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Tzu-Heng Lin (林子恒 or 林子恆)
+= Tzu-Heng Lin
 
-Tzu-Heng Lin (林子恒 or 林子恆)\n
-Founding AI Team Lead, [https://styling.ai StylingAI Inc. (Shenshangtech)]\n
+~~~
+{}{img_left}{resources/photo.jpg}{Tzu-Heng's Portrait}{150px}{150px}
+
+== Tzu-Heng Lin (林子恒 or 林子恆)
+
+Founding AI Team Lead, [https://styling.ai StylingAI Inc. (Shenshangtech 深尚科技)]\n
 MSc, [http://aiic.pku.edu.cn/ AI Innovation Center], [http://english.pku.edu.cn/ Peking University]\n
-BEng, [http://www.ee.tsinghua.edu.cn/publish/eeen/index.html EE], [http://www.tsinghua.edu.cn/publish/newthuen/index.html Tsinghua University]\n
-BBA, [http://ug.sem.tsinghua.edu.cn/en/us/second.html SEM], [http://www.tsinghua.edu.cn/publish/newthuen/index.html Tsinghua University]
 
-Contact: lzhbrian \[AT\] gmail.com (preferred), lzhbrian \[AT\] pku.edu.cn, linziheng \[AT\] shenshangtech.com, {{<s>linzh14 [AT] mails.tsinghua.edu.cn (no longer available)</s>}}
+BEng, [http://www.ee.tsinghua.edu.cn/publish/eeen/index.html Electronic Engineering], [http://www.tsinghua.edu.cn/publish/newthuen/index.html Tsinghua University]\n
+BBA, [http://ug.sem.tsinghua.edu.cn/en/us/second.html School of Economics and Management], [http://www.tsinghua.edu.cn/publish/newthuen/index.html Tsinghua University]
 
+Email: lzhbrian \[AT\] gmail.com (preferred), lzhbrian \[AT\] pku.edu.cn, {{<s>linzh14 [AT] mails.tsinghua.edu.cn (no longer available)</s>}}
 
-== Research Interests
+~~~
 
-- Recommender Systems: \[CIKM'18\], \[SIGIR'19\]
-- Big Data Mining and Measurement: \[ICWSM'17\], \[CIKM'17\], \[MTA'17\], \[GLOBECOM'17\], \[TNSM'18\], \[WCM'18\]
+=== Short Bio
+I am currently the Founding AI Team Lead of [https://styling.ai StylingAI Inc.]
+I have extensive practical research and engineering experience in a broad field of artificial intelligence algorithms.
+I am extremely enthusiastic about AI and Startups.
+
+=== Research interests
+- Recommender Systems: 
+[https://doi.org/10.1145/3269206.3269234, \[CIKM'18\]], 
+[https://doi.org/10.1145/3331184.3331191, \[SIGIR'19\]]
+- Big Data Mining and Measurement: 
+[https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15646 \[ICWSM'17\]], 
+[https://doi.org/10.1145/3132847.3132884 \[CIKM'17\]], 
+[https://doi.org/10.1007/s11042-017-5365-7 \[MTA'17\]], 
+[https://doi.org/10.1109/GLOCOM.2017.8254136 \[GLOBECOM'17\]], 
+[https://doi.org/10.1109/TNSM.2017.2785298 \[TNSM'18\]], 
+[https://doi.org/10.1109/MWC.2018.1700330, \[WCM'18\]]
 - Computer Vision (with Deep Learning and GANs)\n{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
 
 
-== News
+=== News
 ~~~
-We are hiring. JOIN US. (linziheng \[AT\] shenshangtech.com)
+\[JOIN US!\] We are hiring highly motivated Computer Vision Algorithm Engineers. (Please send your resume/CV to linziheng \[AT\] shenshangtech.com)
 ~~~
 
-- \[2019-12-27\] Grand Prize Taiwanese Student Scholarship (Highest Honor) by Minister of Education, P.R.C.
-- \[2019-12-27\] We have just close a $6m Angel Round. JOIN US
-- \[2019-10-20\] 3rd place on Kaggle Days China! Great thanks to my teammates @Mike and @loveisp.
-- \[2019-10-20\] I am currently working on a startup in the field of Fashion + AI! Feel free to drop me your Resume/CV if you are willing to JOIN US.
+- \[2019-12-27\] [http://www.moe.gov.cn/srcsite/A20/s3117/s6583/201711/t20171115_319208.html Grand Prize Taiwanese Student Scholarship] (Highest Honor) by Minister of Education, P.R.C.
+- \[2019-12-27\] We have just close a [https://36kr.com/p/5276835?ktm_source=feed $6m Angel Round].
+- \[2019-10-20\] [https://www.kaggle.com/c/kaggledays-china/leaderboard 3rd place on Kaggle Days China]! Great thanks to my teammates [https://www.kaggle.com/mikelkl @Mike] and [https://www.kaggle.com/loveisp @loveisp].
 - \[2019-07-10\] I will be absent for 2 months from now.
-- \[2019-04-14\] Our full paper on recommendation for social e-commerce has been accepted by SIGIR 2019!
-- \[2019-03-21\] Text-to-image papers curated list: lzhbrian/arbitrary-text-to-image-papers.
-- \[2019-02-14\] Fashion + AI papers and cool resources: lzhbrian/Cool-Fashion-Papers.
-- \[2018-11-24\] 1st Prize Taiwanese Student Scholarship (Top 2/180) by Minister of Education, P.R.C.
-- \[2018-11-05\] Image-to-image papers curated list: lzhbrian/image-to-image-papers.
-- \[2018-10-22\] Attending CIKM 2018 in Turin, Italy. (supported by SIGIR student travel grant)
-- \[2018-08-07\] Our short paper on social recommendation has been accepted by CIKM 2018!
-- \[2018-07-08\] Graduate from EE & SEM, THU. I will join AI Innovation Center, PKU as a MSc student in Fall!
-- \[2018-07-03\] Rank 6/2322 in FashionAI Global Challenge 2018, TIANCHI. Attending AIFT 2018 in PolyU, Hong Kong.
+- \[2019-04-14\] Our full paper on recommendation for social e-commerce has been accepted by [http://sigir.org/sigir2019/ SIGIR 2019]!
+- \[2019-03-21\] Text-to-image papers curated list: [https://github.com/lzhbrian/arbitrary-text-to-image-papers lzhbrian/arbitrary-text-to-image-papers].
+- \[2019-02-14\] Fashion + AI papers and cool resources: [https://github.com/lzhbrian/Cool-Fashion-Papers lzhbrian/Cool-Fashion-Papers].
+- \[2018-11-24\] [http://www.moe.gov.cn/srcsite/A20/s3117/s6583/201711/t20171115_319208.html 1st Prize Taiwanese Student Scholarship] (Top 2/180) by Minister of Education, P.R.C.
+- \[2018-11-05\] Image-to-image papers curated list: [https://github.com/lzhbrian/image-to-image-papers lzhbrian/image-to-image-papers].
+- \[2018-10-22\] Attending [http://www.cikm2018.units.it/ CIKM 2018] in Turin, Italy. (supported by SIGIR student travel grant)
+- \[2018-08-07\] Our short paper on social recommendation has been accepted by [http://www.cikm2018.units.it/ CIKM 2018]!
+- \[2018-07-08\] Graduate from Tsinghua. I will join [http://aiic.pku.edu.cn/ AI Innovation Center, PKU] as a MSc student in Fall!
+- \[2018-07-03\] Rank 6/2322 in [https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165320.5678.1.1a1611f0wgsEqP&raceId=231648 FashionAI Global Challenge 2018, TIANCHI]. Attending [https://www.polyu.edu.hk/itc/aift2018/ AIFT 2018] in PolyU, Hong Kong.
 
 ~~~
 {}{raw}

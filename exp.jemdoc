@@ -1,26 +1,54 @@
 # jemdoc: menu{MENU}{exp.html}, showsource
 = Tzu-Heng Lin - Experiences
 
+== Research & Work
+
+- Founding AI Team \/ Technical Lead @ [https://shenshangtech.com StylingAI Inc. (styling.ai, shenshangtech 深尚科技)]~~~~~~~~~2018.7-\n
+We are a startup aims to help fashion industry with artificial intelligence technologies.\n
+We have just [https://36kr.com/p/5276835?ktm_source=feed raised $6m for angel round].
+- Research Assistant @ [http://aiic.pku.edu.cn/ Artificial Intelligence Innovation Center, Peking University]~~~~~~~~~~~~~~~~~~~~~~~~~~2017.10-\n
+advised by [https://cfcs.pku.edu.cn/wangyizhou/ Prof. Yizhou Wang], and [https://baike.baidu.com/item/%E9%9B%B7%E9%B8%A3/2603484?fr=aladdin Mr. Ming Lei].\n
+Computer Vision, Image Synthesis and Manipulation (PyTorch, TF).\n
+Server Maintenance and Operation for center.
+- Research Assistant @ [http://fi.ee.tsinghua.edu.cn Future Communications and Internet Lab, Tsinghua University]~~~~~~~~~~~~~~~~~2016.4-2018.6\n
+advised by [http://fi.ee.tsinghua.edu.cn/~liyong Prof. Yong Li].\n
+Recommender Systems (TF), User Behavior Analysis, \n
+Internet Measurement, and Data Mining (PySpark, Hadoop).\n
+participate in multiple collaboration projects with [https://www.huawei.com HUAWEI], and [https://www.beibei.com/ Beibei].
+- Research Software Engineering Intern @ [http://owlii.com/ Owlii Inc.]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2017.2-2018.3\n
+Realtime Facial Motion Capture and Transfer (Qt, Matlab), and CUDA acceleration (CUDA C\+\+).\n
+Owlii is a startup working on 3D reconstruction, see our demo: [https://www.leiphone.com/news/201711/NuJMsGOjrGi4SYJ4.html Tmall AR].
+- Research Intern @ [http://dirl.iis.sinica.edu.tw/ Data Insights and Research Lab, Academia Sinica]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2016.7-2016.8\n
+advised by [https://www.linkedin.com/in/swchen Dr. Sheng-Wei Chen].\n
+Big Data Mining (RLang).
+
+
+
 == Education
 
-- Peking University
-- Tsinghua University
+- [http://english.pku.edu.cn/ Peking University]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2018-2021\n
+MSc @ [http://aiic.pku.edu.cn/ AI Innovation Center]\n
+Advised by [https://cfcs.pku.edu.cn/wangyizhou/ Prof. Yizhou Wang] and [https://baike.baidu.com/item/%E9%9B%B7%E9%B8%A3/2603484?fr=aladdin Mr. Ming Lei]
 
-
-== Research & Work
+- [http://www.tsinghua.edu.cn/publish/newthuen/index.html Tsinghua University]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2014-2018\n
+BEng @ [http://www.ee.tsinghua.edu.cn/publish/eeen/index.html Electronic Engineering]\n
+BBA @ [http://ug.sem.tsinghua.edu.cn/en/us/second.html School of Economics and Management]\n
+Advised by [http://fi.ee.tsinghua.edu.cn/~liyong Prof. Yong Li]
 
 
 == Academic Service
 
-- Journal Reviewer
-	-- IEEE TCSVT: 2019
-	-- ACM IMWUT (UBICOMP): 2017, 2018, 2019
-	-- IEEE TNSM: 2017
-- Conference External Reviewer
-	-- ACM SIGIR: 2018, 2019
-	-- ACM IMC: 2018
-	-- AAAI ICWSM: 2017, 2018
+- Journal Reviewer: IEEE TCSVT (2019), ACM IMWUT (2017-2019), IEEE TNSM (2017)
+- Conference External Reviewer: ACM SIGIR (2018-2019), ACM IMC (2018), AAAI ICWSM (2017-2018)
 
 
 == Student Associations
+
+- Vice Chair @ [http://thumaker.cn THU MakerSpace]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2015.9-2017.2\n
+Held tens of activities and make-a-thons.\n
+Lead Dept. of Project Management, Dept. of Public Relation, and Dept. of Operation.\n
+We have [http://www.gov.cn/xinwen/2015-05/04/content_2856705.htm received letters from Prime Minister Keqiang Li].
+
+- Web Dev Lead & Vice Minister @ [https://github.com/eesast EESAST]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2015.6-2017.6\n
+DevOps for websites (PHP Yii, Django, MySQL).
 
