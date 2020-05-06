@@ -2,6 +2,14 @@
 = Tzu-Heng Lin - Publications
 [https://scholar.google.com/citations?user=UkbCkm4AAAAJ \[Google Scholar Profile\]]
 
+== Computer Vision
+- [https://arxiv.org/abs/2005.00419 arXiv:2005.00419] \[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune code]\] \n
+[https://arxiv.org/abs/2005.00419 Aggregation and Finetuning for Clothes Landmark Detection.]\n
+*Tzu-Heng Lin*\n
+*1st place solution of the [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation].
+
+
+
 == Recommender Systems
 - *C5. \[SIGIR'19\]* \n
 [https://doi.org/10.1145/3331184.3331191 CROSS: Cross-platform Recommendation for Social E-Commerce.]\n
