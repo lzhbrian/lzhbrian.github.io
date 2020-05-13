@@ -2,6 +2,9 @@
 = Tzu-Heng Lin - Awards
 
 == Competitions
+- \[2020.4\] *[https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation], [https://sites.google.com/view/cvcreative2020/home?authuser=0 CVPR 2020 CVFAD workshop]*
+  \n 1st Place Award 
+  \n See our \[[https://arxiv.org/abs/2005.00419 Techical report]\], \[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune Code]\]
 - \[2019.10\] *[https://www.kaggle.com/c/kaggledays-china/leaderboard KaggleDays China. Expert Track. Aim for the stars!, Kaggle]*
 	\n 3rd Place Award
 - \[2018.7\] *[https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165320.5678.1.1a1611f0wgsEqP&raceId=231648 FashionAI Global Challenge 2018 - Key Points Detection of Apparel, TIANCHI]*
