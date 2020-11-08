@@ -3,14 +3,25 @@
 [https://scholar.google.com/citations?user=UkbCkm4AAAAJ \[Google Scholar Profile\]]
 
 == Computer Vision
-- [https://arxiv.org/abs/2005.00419 arXiv:2005.00419] \[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune code]\] \n
+- *T1. \[TechReport\]*\n
 [https://arxiv.org/abs/2005.00419 Aggregation and Finetuning for Clothes Landmark Detection.]\n
 *Tzu-Heng Lin*\n
-*1st place solution of the [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation].
-
+*1st place solution of the [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation].\n
+\[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune code]\], \[[https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge talk]\] \n
+May 2020
 
 
 == Recommender Systems
+- *J5. \[TKDE'20\]* \n
+[https://ieeexplore.ieee.org/abstract/document/9170855 Social Recommendation with Characterized Regularization.]\n
+Chen Gao, Nian Li, *Tzu-Heng Lin*, Dongsheng Lin, Jun Zhang, Yong Li, and Depeng Jin\n
+IEEE Transactions on Knowledge and Data Engineering.\n
+Aug 2020
+- *J4. \[TKDE'20\]* \n
+[https://ieeexplore.ieee.org/abstract/document/9171850 Item Recommendation for Word-of-Mouth Scenario in Social E-Commerce.]\n
+Chen Gao, Chao Huang, Donghan Yu, Haohao Fu, *Tzu-Heng Lin*, Depeng Jin, and Yong Li\n
+IEEE Transactions on Knowledge and Data Engineering.\n
+Aug 2020
 - *C5. \[SIGIR'19\]* \n
 [https://doi.org/10.1145/3331184.3331191 CROSS: Cross-platform Recommendation for Social E-Commerce.]\n
 *Tzu-Heng Lin*, Chen Gao, and Yong Li\n
@@ -27,12 +38,12 @@ Turin, Italy, Oct 2018
 - *J3. \[WCM'18\]*\n
 [https://doi.org/10.1109/MWC.2018.1700330 Temporal-Spatial Mobile Application Usage Understanding and Popularity Prediction for Edge Caching.]\n
 Ming Zeng, *Tzu-Heng Lin*, Min Chen, Huan Yan, Jiaxin Huang, Jing Wu, and Yong Li\n
-IEEE Wireless Communications\n
+IEEE Wireless Communications.\n
 July 2018
 - *J2. \[TNSM'18\]*\n
 [https://doi.org/10.1109/TNSM.2017.2785298 On the Understanding of Video Streaming Viewing Behaviors Across Different Content Providers.]\n
 Huan Yan, *Tzu-Heng Lin*, Chuhan Gao, Yong Li and Depeng Jin\n
-IEEE Transactions on Network and Service Management\n
+IEEE Transactions on Network and Service Management.\n
 January 2018
 - *J1. \[MTA'17\]*\n
 [https://doi.org/10.1007/s11042-017-5365-7 Profiling Users by Online Shopping Behaviors.]\n
