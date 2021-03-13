@@ -13,12 +13,12 @@ May 2020
 
 
 == Recommender Systems
-- *J5. \[TKDE'20\]* \n
+- *J7. \[TKDE'20\]* \n
 [https://ieeexplore.ieee.org/abstract/document/9170855 Social Recommendation with Characterized Regularization.]\n
 Chen Gao, Nian Li, *Tzu-Heng Lin*, Dongsheng Lin, Jun Zhang, Yong Li, and Depeng Jin\n
 IEEE Transactions on Knowledge and Data Engineering.\n
 Aug 2020
-- *J4. \[TKDE'20\]* \n
+- *J6. \[TKDE'20\]* \n
 [https://ieeexplore.ieee.org/abstract/document/9171850 Item Recommendation for Word-of-Mouth Scenario in Social E-Commerce.]\n
 Chen Gao, Chao Huang, Donghan Yu, Haohao Fu, *Tzu-Heng Lin*, Depeng Jin, and Yong Li\n
 IEEE Transactions on Knowledge and Data Engineering.\n
@@ -36,31 +36,41 @@ Turin, Italy, Oct 2018
 
 
 == Big Data Mining
+- *J5. \[TNSM'20\]* \n
+[https://ieeexplore.ieee.org/document/9288686 Discovering Usage Patterns of Mobile Video Service in the Cellular Networks.]\n
+Huan Yan, *Tzu-Heng Lin*, Ming Zeng, Jing Wu, Yong Li, and Depeng Jin\n
+IEEE Transactions on Network and Service Management.\n
+Dec 2020
+- *J4. \[TNSM'20\]* \n
+[https://ieeexplore.ieee.org/document/9288838 On Migratory Behavior in Video Consumption.]\n
+Huan Yan, Haohao Fu, Yong Li, *Tzu-Heng Lin*, Gang Wang, Haitao Zheng, Depeng Jin, and Ben Y. Zhao\n
+IEEE Transactions on Network and Service Management.\n
+Dec 2020
 - *J3. \[WCM'18\]*\n
 [https://doi.org/10.1109/MWC.2018.1700330 Temporal-Spatial Mobile Application Usage Understanding and Popularity Prediction for Edge Caching.]\n
 Ming Zeng, *Tzu-Heng Lin*, Min Chen, Huan Yan, Jiaxin Huang, Jing Wu, and Yong Li\n
 IEEE Wireless Communications.\n
-July 2018
+Jul 2018
 - *J2. \[TNSM'18\]*\n
 [https://doi.org/10.1109/TNSM.2017.2785298 On the Understanding of Video Streaming Viewing Behaviors Across Different Content Providers.]\n
 Huan Yan, *Tzu-Heng Lin*, Chuhan Gao, Yong Li and Depeng Jin\n
 IEEE Transactions on Network and Service Management.\n
-January 2018
+Jan 2018
 - *J1. \[MTA'17\]*\n
 [https://doi.org/10.1007/s11042-017-5365-7 Profiling Users by Online Shopping Behaviors.]\n
 Huan Yan, Zifeng Wang, *Tzu-Heng Lin*, Yong Li and Depeng Jin\n
 Springer Multimedia Tools and Applications.\n
-December 2017
+Dec 2017
 - *C3. \[GLOBECOM'17\]* \n
 [https://doi.org/10.1109/GLOCOM.2017.8254136 Characterizing the Usage of Mobile Video Service in Cellular Networks.]\n
 Huan Yan, *Tzu-Heng Lin*, Ming Zeng, Jing Wu, Jiaxin Huang, Yong Li and Depeng Jin\n
 In Proceedings of 2017 IEEE Global Communications Conference.\n
-Singapore, December 2017
+Singapore, Dec 2017
 - *C2. \[CIKM'17\]*\n
 [https://doi.org/10.1145/3132847.3132884 On Migratory Behavior in Video Consumption.]\n
 Huan Yan, *Tzu-Heng Lin*, Gang Wang, Yong Li, Haitao Zheng, Depeng Jin and Ben Y. Zhao\n
 In Proceedings of The 26th ACM International Conference on Information and Knowledge Management.\n
-Singapore, November 2017
+Singapore, Nov 2017
 - *C1. \[ICWSM'17\]*\n
 [https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15646 A First Look at User Switching Behaviors Over Multiple Video Content Providers.]\n
 Huan Yan, *Tzu-Heng Lin*, Gang Wang, Yong Li, Haitao Zheng, Depeng Jin and Ben Y. Zhao\n
