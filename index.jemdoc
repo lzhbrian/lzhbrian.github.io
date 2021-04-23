@@ -1,8 +1,10 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Tzu-Heng Lin (林子恒 or 林子恆)
+= Tzu-Heng Lin
 
 ~~~
 {}{img_left}{resources/photo.jpg}{Tzu-Heng's Portrait}{170px}{170px}
+
+*a.k.a 林子恒, 林子恆, lzhbrian, Brian Lin, linziheng, Ziheng Lin*
 
 Former Founding AI R&D Team Lead, [https://www.shenshangtech.com StylingAI Inc.] (2018.8-2020.12)\n
 Former Research Software Engineering Intern, [http://owlii.com/ Owlii Inc.] (acquired by [https://www.kuaishou.com/ Kwai]) (2017.2-2018.3)\n
@@ -48,8 +50,9 @@ Tzu-Heng Lin holds extensive practical R&D experience with track record in a bro
 
 == Service
 
-- Journal Reviewer: TCSVT (2019-2020), IMWUT (2017-2019), TNSM (2017)
 - Conference Reviewer: ICCV (2021), IJCAI (2021), CVPR (2021), ECCV (2020), SIGIR (2018-2019), IMC (2018), ICWSM (2017-2018, 2020)
+- Journal Reviewer: TCSVT (2019-2020), IMWUT (2017-2019), TNSM (2017)
+
 
 == News
 - \[2020-04-11\] Ranked 1st in [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation] of [https://sites.google.com/view/cvcreative2020/home?authuser=0 CVPR 2020 CVFAD workshop]! See our [https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge Talk], [https://arxiv.org/abs/2005.00419 Techical report] and [https://github.com/lzhbrian/deepfashion2-kps-agg-finetune Code].
