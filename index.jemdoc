@@ -4,8 +4,9 @@
 ~~~
 {}{img_left}{resources/photo.jpg}{Tzu-Heng's Portrait}{170px}{170px}
 
-*a.k.a Tzu-Heng Lin, 林子恒, 林子恆, lzhbrian, Brian Lin, linziheng, Ziheng Lin*
+Senior Algorithm Engineer @ [https://www.mi.com/ Xiaomi AI Lab, Xiaomi Inc.] (2021.10-)\n
 
+Former Computer Vision Engineer (Internship), [https://www.kuaishou.com/ Kuaishou Technology] (2021.1-2021.7)\n
 Former Founding AI R&D Team Lead, [https://www.shenshangtech.com StylingAI Inc.] (2018.8-2020.12)\n
 Former Research Software Engineering Intern, [http://owlii.com/ Owlii Inc.] (acquired by [https://www.kuaishou.com/ Kwai]) (2017.2-2018.3)\n
 Former Research Intern, [https://www.iis.sinica.edu.tw/zh/index.html Academia Sinica] (2016.7-2016.8)\n
@@ -36,7 +37,9 @@ Tzu-Heng Lin holds extensive practical R&D experience with track record in a bro
 [https://doi.org/10.1145/3269206.3269234 \[CIKM'18\]], 
 [https://doi.org/10.1145/3331184.3331191 \[SIGIR'19\]],
 [https://ieeexplore.ieee.org/abstract/document/9170855 \[TKDE'20\]],
-[https://ieeexplore.ieee.org/abstract/document/9171850 \[TKDE'20\]]
+[https://ieeexplore.ieee.org/abstract/document/9171850 \[TKDE'20\]],
+[https://ieeexplore.ieee.org/abstract/document/9492753 \[TKDE'21\]],
+[https://arxiv.org/abs/2111.07154 \[BigData-W'21\]]
 - Big Data Mining and Measurement: 
 [https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15646 \[ICWSM'17\]], 
 [https://doi.org/10.1145/3132847.3132884 \[CIKM'17\]], 
@@ -46,25 +49,22 @@ Tzu-Heng Lin holds extensive practical R&D experience with track record in a bro
 [https://doi.org/10.1109/MWC.2018.1700330 \[WCM'18\]],
 [https://ieeexplore.ieee.org/document/9288686 \[TNSM'20\]],
 [https://ieeexplore.ieee.org/document/9288838 \[TNSM'20\]]
-- Computer Vision (with Deep Learning and GANs)\n{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
+- Computer Vision (with Deep Learning and GANs): [https://arxiv.org/abs/2005.00419 \[ArXiv'20\]]\n{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
 
 == Service
 
-- Conference PC Member/Reviewer: ICLR(2022), CVPR(2021-2022), ICCV (2021), IJCAI (2021), ECCV (2020), ICWSM (2020-2021)
+- Conference PC Member/Reviewer: ICLR (2022), CVPR (2021-2022), ICCV (2021), IJCAI (2021), ECCV (2020), ICWSM (2020-2021)
 - Journal Reviewer: TCSVT (2019-2020), IMWUT (2017-2019), TNSM (2017)
 # - External Reviewer: SIGIR (2018-2019), IMC (2018), ICWSM (2017-2018)
 
 
 == News
-- \[2021-07\] I will be absent for 2\~3 months from now.
-# - \[2021-01\] Joining Kwai.
-# - \[2020-12\] Left StylingAI Inc.
-- \[2020-04-11\] Ranked 1st in [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation] of [https://sites.google.com/view/cvcreative2020/home?authuser=0 CVPR 2020 CVFAD workshop]! See our [https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge Talk], [https://arxiv.org/abs/2005.00419 Techical report] and [https://github.com/lzhbrian/deepfashion2-kps-agg-finetune Code].
+- \[2021-12\] Ranked 2nd in [https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard IEEE BigData Cup 2021 Track1: Item Combination Prediction]! Great thanks to my teammate [https://sites.google.com/view/chengaothu/ Chen Gao]. See our \[[https://arxiv.org/abs/2111.07154 report]\], \[[https://github.com/lzhbrian/bigdatacup2021 code]\].
+- \[2020-04-11\] Ranked 1st in [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation] of [https://sites.google.com/view/cvcreative2020/home?authuser=0 CVPR 2020 CVFAD workshop]! See our \[[https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge talk]\], \[[https://arxiv.org/abs/2005.00419 report]\], \[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune code]\].
 - \[2019-12-28\] New site launched! Thanks to Jemdoc! [https://lzhbrian.me/old2 old site]
 - \[2019-12-27\] [http://www.moe.gov.cn/srcsite/A20/s3117/s6583/201711/t20171115_319208.html Grand Prize Taiwanese Student Scholarship] (Highest Honor) by Minister of Education, P.R.C.
 - \[2019-12-27\] We have just close a [https://36kr.com/p/5276835?ktm_source=feed $6m Angel Round] ([https://www.shenshangtech.com StylingAI Inc. (styling.ai, shenshangtech 深尚科技)]).
 - \[2019-10-20\] [https://www.kaggle.com/c/kaggledays-china/leaderboard 3rd place on Kaggle Days China]! Great thanks to my teammates [https://www.kaggle.com/mikelkl @Mike] and [https://www.kaggle.com/loveisp @loveisp].
-- \[2019-07-10\] I will be absent for 2 months from now.
 - \[2019-04-14\] Our full paper on recommendation for social e-commerce has been accepted by [http://sigir.org/sigir2019/ SIGIR 2019]!
 - \[2019-03-21\] Text-to-image papers curated list: [https://github.com/lzhbrian/arbitrary-text-to-image-papers lzhbrian/arbitrary-text-to-image-papers].
 - \[2019-02-14\] Fashion + AI papers and cool resources: [https://github.com/lzhbrian/Cool-Fashion-Papers lzhbrian/Cool-Fashion-Papers].

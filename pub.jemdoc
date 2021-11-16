@@ -13,6 +13,18 @@ May 2020
 
 
 == Recommender Systems
+- *C6. \[BigData-W'21\]* \n
+[https://arxiv.org/abs/2111.07154 Session-aware Item-combination Recommendation with Transformer Network.]\n
+*Tzu-Heng Lin*, and Chen Gao\n
+*2nd place in [https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard IEEE BigData Cup 2021 Track1: Item Combination Prediction].\n
+\[[https://github.com/lzhbrian/bigdatacup2021 code]\]\n
+2021 IEEE International Conference on Big Data (Workshop).\n
+Dec 2021
+- *J8. \[TKDE'21\]* \n
+[https://ieeexplore.ieee.org/abstract/document/9492753 Cross-platform Item Recommendation for Online Social E-Commerce.]\n
+Chen Gao, *Tzu-Heng Lin*, Nian Li, Depeng Jin, and Yong Li\n
+IEEE Transactions on Knowledge and Data Engineering.\n
+Jul 2021
 - *J7. \[TKDE'20\]* \n
 [https://ieeexplore.ieee.org/abstract/document/9170855 Social Recommendation with Characterized Regularization.]\n
 Chen Gao, Nian Li, *Tzu-Heng Lin*, Dongsheng Lin, Jun Zhang, Yong Li, and Depeng Jin\n
