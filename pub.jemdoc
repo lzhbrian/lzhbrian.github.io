@@ -13,7 +13,7 @@ Vienna, Austria, Jul 2022\n
 - *T1. \[TechReport\]*\n
 [https://arxiv.org/abs/2005.00419 Aggregation and Finetuning for Clothes Landmark Detection.]\n
 *Tzu-Heng Lin*\n
-*1st place solution of the [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation].\n
+*1st place solution of the [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation] of [https://sites.google.com/view/cvcreative2020/home?authuser=0 CVPR 2020 CVFAD workshop].\n
 \[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune code]\], \[[https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge talk]\] \n
 May 2020
 

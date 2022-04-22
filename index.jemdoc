@@ -6,17 +6,19 @@
 
 Senior Algorithm Engineer @ [https://www.mi.com/ Xiaomi Technology] (2021.10-)\n
 
-Former Computer Vision Engineer & TPM @ [https://www.kuaishou.com/ Kuaishou Technology] (2021.1-2021.7)\n
-Former Founding AI R&D Team Lead @ [https://www.shenshangtech.com StylingAI Inc.] (2018.8-2020.12)\n
-Former Research Software Engineering Intern @ [http://owlii.com/ Owlii Inc.] (acquired by [https://www.kuaishou.com/ Kuaishou Technology]) (2017.2-2018.3)\n
-Former Research Intern @ [https://www.iis.sinica.edu.tw/zh/index.html Academia Sinica] (2016.7-2016.8)\n
-
-Former Consultant @ [https://www.deeplearning.ai/ deeplearning.ai] (2020.1-2020.6)\n
-Former Vice Chair @ [http://thumaker.cn THU MakerSpace] (2015.9-2017.2)\n
-
 MSc @ [http://aiic.pku.edu.cn/ AI Innovation Center], [http://english.pku.edu.cn/ Peking University] (2018.9-2021.7)\n
 BEng @ [http://www.ee.tsinghua.edu.cn/publish/eeen/index.html Electronic Engineering], [https://www.tsinghua.edu.cn/en/ Tsinghua University] (2014.8-2018.7)\n
 BBA @ [http://ug.sem.tsinghua.edu.cn/en/us/second.html School of Economics and Management], [https://www.tsinghua.edu.cn/en/ Tsinghua University] (2015.9-2018.7)\n
+
+Formerly:
+- Computer Vision Engineer & TPM @ [https://www.kuaishou.com/ Kuaishou Technology] (2021.1-2021.7)\n
+- Founding Team & AI R&D Team Lead @ [https://www.shenshangtech.com StylingAI Inc.] (2018.8-2020.12)\n
+- Research Software Engineering Intern @ [http://owlii.com/ Owlii Inc.] (acquired by [https://www.kuaishou.com/ Kuaishou Technology]) (2017.2-2018.3)\n
+- Research Intern @ [https://www.iis.sinica.edu.tw/zh/index.html Academia Sinica] (2016.7-2016.8)\n
+
+#- Consultant @ [https://www.deeplearning.ai/ deeplearning.ai] (2020.1-2020.6)\n
+#- Vice Chair @ [http://thumaker.cn THU MakerSpace] (2015.9-2017.2)\n
+
 
 ~~~
 
@@ -33,6 +35,12 @@ Links: [https://www.github.com/lzhbrian \[Github\]] [https://scholar.google.com/
 
 
 == Research interests ([https://scholar.google.com/citations?user=UkbCkm4AAAAJ Google Scholar], [https://www.github.com/lzhbrian Github])
+
+{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
+
+- Computer Vision (with Deep Learning): 
+[https://arxiv.org/abs/2005.00419 \[ArXiv'20\]], 
+\[IJCAI'22\]
 - Recommender Systems: 
 [https://doi.org/10.1145/3269206.3269234 \[CIKM'18\]], 
 [https://doi.org/10.1145/3331184.3331191 \[SIGIR'19\]],
@@ -49,10 +57,7 @@ Links: [https://www.github.com/lzhbrian \[Github\]] [https://scholar.google.com/
 [https://doi.org/10.1109/MWC.2018.1700330 \[WCM'18\]],
 [https://ieeexplore.ieee.org/document/9288686 \[TNSM'20\]],
 [https://ieeexplore.ieee.org/document/9288838 \[TNSM'20\]]
-- Computer Vision (with Deep Learning): 
-[https://arxiv.org/abs/2005.00419 \[ArXiv'20\]], 
-\[IJCAI'22\]\n 
-{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
+
 
 == Service
 
