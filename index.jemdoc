@@ -6,7 +6,7 @@
 
 Senior Algorithm Engineer @ [https://www.mi.com/ Xiaomi Technology] (2021.10-)\n
 
-Former Computer Vision Engineer @ [https://www.kuaishou.com/ Kuaishou Technology] (2021.1-2021.7)\n
+Former Computer Vision Engineer & TPM @ [https://www.kuaishou.com/ Kuaishou Technology] (2021.1-2021.7)\n
 Former Founding AI R&D Team Lead @ [https://www.shenshangtech.com StylingAI Inc.] (2018.8-2020.12)\n
 Former Research Software Engineering Intern @ [http://owlii.com/ Owlii Inc.] (acquired by [https://www.kuaishou.com/ Kuaishou Technology]) (2017.2-2018.3)\n
 Former Research Intern @ [https://www.iis.sinica.edu.tw/zh/index.html Academia Sinica] (2016.7-2016.8)\n
@@ -21,9 +21,9 @@ BBA @ [http://ug.sem.tsinghua.edu.cn/en/us/second.html School of Economics and M
 ~~~
 
 Contact:\n
-- lzhbrian \[AT\] gmail.com (preferred)\n
-- {{<s>lzhbrian [AT] pku.edu.cn, 1801213773@pku.edu.cn (no longer available)</s>}}\n
-- {{<s>linzh14 [AT] mails.tsinghua.edu.cn (no longer available)</s>}}
+- lzhbrian \[AT\] gmail \[DOT\] com (preferred)\n
+- {{<s>lzhbrian [AT] pku [DOT] edu [DOT] cn, 1801213773 [AT] pku [DOT] edu [DOT] cn (no longer available)</s>}}\n
+- {{<s>linzh14 [AT] mails [DOT] tsinghua [DOT] edu [DOT] cn (no longer available)</s>}}
 
 Links: [https://www.github.com/lzhbrian \[Github\]] [https://scholar.google.com/citations?user=UkbCkm4AAAAJ \[Google Scholar\]] [https://www.linkedin.com/in/lzhbrian \[Linkedin\]] [https://wiki.lzhbrian.me \[wiki\]]\n
 
@@ -39,7 +39,7 @@ Links: [https://www.github.com/lzhbrian \[Github\]] [https://scholar.google.com/
 [https://ieeexplore.ieee.org/abstract/document/9170855 \[TKDE'20\]],
 [https://ieeexplore.ieee.org/abstract/document/9171850 \[TKDE'20\]],
 [https://ieeexplore.ieee.org/abstract/document/9492753 \[TKDE'21\]],
-[https://arxiv.org/abs/2111.07154 \[BigData-W'21\]]
+[https://arxiv.org/abs/2111.07154 \[BigData'21\]]
 - Big Data Mining and Measurement: 
 [https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15646 \[ICWSM'17\]], 
 [https://doi.org/10.1145/3132847.3132884 \[CIKM'17\]], 
@@ -49,7 +49,10 @@ Links: [https://www.github.com/lzhbrian \[Github\]] [https://scholar.google.com/
 [https://doi.org/10.1109/MWC.2018.1700330 \[WCM'18\]],
 [https://ieeexplore.ieee.org/document/9288686 \[TNSM'20\]],
 [https://ieeexplore.ieee.org/document/9288838 \[TNSM'20\]]
-- Computer Vision (with Deep Learning and GANs): [https://arxiv.org/abs/2005.00419 \[ArXiv'20\]]\n{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
+- Computer Vision (with Deep Learning): 
+[https://arxiv.org/abs/2005.00419 \[ArXiv'20\]], 
+\[IJCAI'22\]\n 
+{{<a class="github-button" href="https://github.com/lzhbrian/image-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/image-to-image-papers on GitHub">image-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/arbitrary-text-to-image-papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/arbitrary-text-to-image-papers on GitHub">arbitrary-text-to-image-papers</a> <a class="github-button" href="https://github.com/lzhbrian/Cool-Fashion-Papers" data-size="large" data-show-count="true" aria-label="Star lzhbrian/Cool-Fashion-Papers on GitHub">Cool-Fashion-Papers</a> <a class="github-button" href="https://github.com/lzhbrian/metrics" data-size="large" data-show-count="true" aria-label="Star lzhbrian/metrics on GitHub">metrics</a> }}
 
 == Service
 
@@ -59,6 +62,7 @@ Links: [https://www.github.com/lzhbrian \[Github\]] [https://scholar.google.com/
 
 
 == News
+- \[2022-04-21\] One paper accepted by [https://ijcai-22.org/ IJCAI 2022].
 - \[2021-12-17\] Ranked 2nd in [https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard IEEE BigData Cup 2021 Track1: Item Combination Prediction]! Great thanks to my teammate [https://sites.google.com/view/chengaothu/ Chen Gao]. See our \[[resources/2021ieeebigdatacuptalk.mp4 talk]\], \[[https://arxiv.org/abs/2111.07154 report]\], \[[https://github.com/lzhbrian/bigdatacup2021 code]\].
 - \[2020-04-11\] Ranked 1st in [https://competitions.codalab.org/competitions/22966 DeepFashion2 Challenge - Track 1 Clothes Landmark Estimation] of [https://sites.google.com/view/cvcreative2020/home?authuser=0 CVPR 2020 CVFAD workshop]! See our \[[https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge talk]\], \[[https://arxiv.org/abs/2005.00419 report]\], \[[https://github.com/lzhbrian/deepfashion2-kps-agg-finetune code]\].
 - \[2019-12-28\] New site launched! Thanks to Jemdoc! [https://lzhbrian.me/old2 {{<s>old site</s>}}]

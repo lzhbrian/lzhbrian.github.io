@@ -4,6 +4,12 @@
 
 
 == Computer Vision
+- *C7. \[IJCAI-ECAI'22\]* \n
+Intrinsic Image Decomposition by Pursuing Reflectance Image.\n
+*Tzu-Heng Lin*\*, Pengxiao Wang\*, and Yizhou Wang.\n
+In Proceedings of The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence.\n
+Vienna, Austria, Jul 2022\n
+\* Equal contribution.
 - *T1. \[TechReport\]*\n
 [https://arxiv.org/abs/2005.00419 Aggregation and Finetuning for Clothes Landmark Detection.]\n
 *Tzu-Heng Lin*\n
@@ -13,12 +19,12 @@ May 2020
 
 
 == Recommender Systems
-- *C6. \[BigData-W'21\]* \n
+- *C6. \[BigData'21\]* \n
 [https://arxiv.org/abs/2111.07154 Session-aware Item-combination Recommendation with Transformer Network.]\n
 *Tzu-Heng Lin*, and Chen Gao\n
 *2nd place in [https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard IEEE BigData Cup 2021 Track1: Item Combination Prediction].\n
 \[[https://github.com/lzhbrian/bigdatacup2021 code]\]\n
-2021 IEEE International Conference on Big Data (Workshop).\n
+In Proceedings of The 2021 IEEE International Conference on Big Data.\n
 Dec 2021
 - *J8. \[TKDE'21\]* \n
 [https://ieeexplore.ieee.org/abstract/document/9492753 Cross-platform Item Recommendation for Online Social E-Commerce.]\n
